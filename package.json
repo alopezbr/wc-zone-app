@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@aitor/webcomponents": "file:./aitor-webcomponents-0.0.26.tgz",
     "@angular/animations": "^5.2.0",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
@@ -23,7 +24,7 @@
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.6",
-    "zone.js": "^0.8.19"
+    "zone.js": "^0.10.3"
   },
   "devDependencies": {
     "@angular/cli": "~1.7.4",
